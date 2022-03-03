@@ -1,0 +1,12 @@
+{
+    "Burgers": [
+        {
+            "id": 0,
+            "name": "First"
+        },
+        {
+            "id": 1,
+            "name": "second"
+        }
+    ]
+}
